@@ -1,2 +1,2 @@
 # tindog
-A website for connecting  Dogs nearby 
+A website for connecting  Dogs nearby using HTML5, CSS3 and Bootstrap4
