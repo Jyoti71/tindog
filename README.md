@@ -1,2 +1,9 @@
-# tindog
-A landing page for connecting  Dogs nearby using HTML5, CSS3 and Bootstrap4
+# Tindog
+A landing page for connecting nearby Dogs.
+
+## Tech Stack
+1. HTML 
+2. CSS
+3. Bootstrap
+
+You can find the landing page [here](https://jyoti71.github.io/tindog/).
